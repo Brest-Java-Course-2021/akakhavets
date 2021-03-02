@@ -1,7 +1,7 @@
-package com.epam.brest.model;
+package com.epam.brest.model.model;
 
-import com.epam.brest.files.FileReader;
-import com.epam.brest.selector.PriceSelector;
+import com.epam.brest.model.files.FileReader;
+import com.epam.brest.model.selector.PriceSelector;
 
 import java.math.BigDecimal;
 import java.util.Scanner;

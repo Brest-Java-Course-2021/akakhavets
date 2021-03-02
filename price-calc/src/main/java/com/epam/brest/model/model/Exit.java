@@ -1,4 +1,4 @@
-package com.epam.brest.model;
+package com.epam.brest.model.model;
 
 public class Exit implements Status {
 

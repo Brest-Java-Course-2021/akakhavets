@@ -1,4 +1,4 @@
-package com.epam.brest.files;
+package com.epam.brest.model.files;
 
 import java.io.BufferedReader;
 import java.io.IOException;

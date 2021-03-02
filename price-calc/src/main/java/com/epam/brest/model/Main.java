@@ -1,10 +1,10 @@
-package com.epam.brest;
+package com.epam.brest.model;
 
-import com.epam.brest.files.FileReader;
-import com.epam.brest.model.ReadData;
-import com.epam.brest.model.Status;
-import com.epam.brest.model.StatusType;
-import com.epam.brest.selector.PriceSelector;
+import com.epam.brest.model.files.FileReader;
+import com.epam.brest.model.model.ReadData;
+import com.epam.brest.model.model.Status;
+import com.epam.brest.model.model.StatusType;
+import com.epam.brest.model.selector.PriceSelector;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 

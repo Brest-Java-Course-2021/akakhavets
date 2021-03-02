@@ -1,10 +1,9 @@
-package com.epam.brest.model;
+package com.epam.brest.model.model;
 
 import java.math.BigDecimal;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
-import java.util.Scanner;
 
 public interface Status {
 

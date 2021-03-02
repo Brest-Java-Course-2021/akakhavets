@@ -1,4 +1,4 @@
-package com.epam.brest.selector;
+package com.epam.brest.model.selector;
 
 import org.junit.Test;
 
